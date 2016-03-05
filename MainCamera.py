@@ -6,8 +6,8 @@ cap = cv2.VideoCapture(0)
 
 # Define the codec and create VideoWriter object
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('ender.avi',fourcc, 20.0, (640,480))
-out2 = cv2.VideoWriter('ender2.avi',fourcc, 20.0, (640,480))
+out = cv2.VideoWriter('output1.avi',fourcc, 20.0, (640,480))
+out2 = cv2.VideoWriter('output2.avi',fourcc, 20.0, (640,480))
 flag = 0
 
 
