@@ -23,7 +23,6 @@ files, those one will be sent to server and standed on web interface.
 </p>
 
 <p><i> -Location:</i><br>
-Similarly with Movement detection, the application will run in the background, keep waiting for the sound detected and write it to .wav
-files, those one will be sent to server and standed on web interface.
+Adding
 </p>
 
